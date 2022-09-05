@@ -77,7 +77,10 @@ function aleatorio(min, max) {
 
 window.addEventListener("load" , iniciarJuego)
 
-
+function moduloDey(num1, num2){
+    let modulo = (num1 % num2)
+    return (" El modulo es " + modulo)
+}
 
 
 
