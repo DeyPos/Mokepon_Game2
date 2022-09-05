@@ -78,11 +78,6 @@ function aleatorio(min, max) {
 window.addEventListener("load" , iniciarJuego)
 
 
-function saludo(name) {
-    let nombre= ("Hola" + name + " Bienvenid@")
-    return saludo
-}
-
 saludo("Dey")
 saludo("norber")
 
